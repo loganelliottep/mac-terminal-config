@@ -1,5 +1,5 @@
-# mac-config
-Terminal config for my Mac
+# Terminal config for my Mac
+I like having vi as my terminal shell as well as displaying my current git branch and colouring all of this to make it super clear.
 
 # Prerequisites
 * Have sudo access

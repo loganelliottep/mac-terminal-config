@@ -1,0 +1,8 @@
+# set terminal to use vi
+set editing-mode vi
+set keymap vi-command
+# enables showing what mode terminal vi is, requires latest version of bash see https://github.com/Toberumono/Miscellaneous/wiki/Installing-Bash-4.3-on-Mac-OSX
+set show-mode-in-prompt on
+# colours cmd/ins mode on terminal
+set vi-cmd-mode-string "\1\033[38;5;1m\2(cmd)\1\e[0m\2"
+set vi-ins-mode-string "\1\033[38;5;39m\2(ins)\1\e[0m\2"

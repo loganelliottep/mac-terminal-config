@@ -8,7 +8,8 @@ I like having Solarized as my theme, vi as my terminal shell as well as displayi
 # Installation
 1. Place .inputrc at ~/
 2. Place .bash_profile at ~/
-3. Download [Solarized](http://ethanschoonover.com/solarized) and unzip
-4. Import "Solarized Dark ansi.terminal" from osx-terminal.app-colors-solarized into your Terminal themes.
+3. Place .vimrc at ~/
+4. Download [Solarized](http://ethanschoonover.com/solarized) and unzip
+5. Import "Solarized Dark ansi.terminal" from osx-terminal.app-colors-solarized into your Terminal themes.
 6. Increase font size to 16px
-3. Restart terminal
+7. Restart terminal

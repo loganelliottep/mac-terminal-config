@@ -10,6 +10,6 @@ I like having Solarized as my theme, vi as my terminal shell as well as displayi
 2. Place .bash_profile at ~/
 3. Place .vimrc at ~/
 4. Download [Solarized](http://ethanschoonover.com/solarized) and unzip
-5. Import "Solarized Dark ansi.terminal" from osx-terminal.app-colors-solarized into your Terminal themes.
+5. Import "Solarized Dark ansi.terminal" from osx-terminal.app-colors-solarized into your Terminal themes and select as default.
 6. Increase font size to 16px
 7. Restart terminal

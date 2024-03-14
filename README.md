@@ -3,13 +3,16 @@ I like having Solarized as my theme, vi as my terminal shell as well as displayi
 
 # Prerequisites
 * Have sudo access
-* To enable showing what vi mode you are on in the terminal you need to update your version of Bash, follow [this guide](https://github.com/Toberumono/Miscellaneous/wiki/Installing-Bash-4.3-on-Mac-OSX) to do that.
+* Install Brew
+* Install oh-my-zsh
+* Webstorm
 
 # Installation
-1. Place .inputrc at ~/
-2. Place .bash_profile at ~/
-3. Place .vimrc at ~/
-4. Download [Solarized](http://ethanschoonover.com/solarized) and unzip
-5. Import "Solarized Dark ansi.terminal" from osx-terminal.app-colors-solarized into your Terminal themes and select as default.
-6. Increase font size to 16px
-7. Restart terminal
+1. Place .zshrc at ~/
+2. Place .vimrc at ~/
+3. Download [Solarized](http://ethanschoonover.com/solarized) and unzip
+4. Import "Solarized Dark ansi.terminal" from osx-terminal.app-colors-solarized into your Terminal themes and select as default.
+5. Increase font size to 18px
+6. Change "Shells open with" to use /bin/zsh
+7. Import webstorm_settings.zip into webstorm
+8. Restart terminal
